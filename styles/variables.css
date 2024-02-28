@@ -1,0 +1,12 @@
+:root {
+    --highlight-color: #8800D6;
+
+}
+
+.font-source-sans-3 {
+    font-family: 'Source Sans 3', sans-serif;
+  }
+  
+  .font-roboto-mono {
+    font-family: 'Roboto Mono', monospace;
+  }
